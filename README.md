@@ -25,10 +25,15 @@ Finally, two visualisations are presented. The first is a regression plot of the
 The second maps the two variables above to the Dudley LSOAs and presents them side by side, where LSOAs of low health score (as deciles) and low private garden space are highlighted. A third plot is provided to provide geographic context for the highlighted areas. 
 The plots use yellow to orange palettes and highlight the LSOAs of interest in a highly contrasting blue to ensure the plots are readable to people with various kinds of colour-blindness. 
 
-1: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/835115/IoD2019_Statistical_Release.pdf
+## References
 
-2: https://opendatacommunities.org/slice?dataset=http%3A%2F%2Fopendatacommunities.org%2Fdata%2Fsocietal-wellbeing%2Fimd2019%2Findices
+<p><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/835115/IoD2019_Statistical_Release.pdf">[1] </a>	The English Indices of Deprivation 2019 (IoD2019). Ministry of Housing, Communities & Local Government. [Online]. September 2019. [Accessed 25 July 2025] Available from: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/835115/IoD2019_Statistical_Release.pdf</p>	
 
-3: https://www.ons.gov.uk/economy/environmentalaccounts/datasets/accesstopublicgreenspaceingreatbritain
+<p><a href="https://opendatacommunities.org/slice?dataset=http%3A%2F%2Fopendatacommunities.org%2Fdata%2Fsocietal-wellbeing%2Fimd2019%2Findices">[2] </a>English Indices of Deprivation 2019 - LSOA Level. Ministry of Housing, Communities & Local Government. [Online]. 2019. [Accessed 25 July 2025] Available from: https://opendatacommunities.org/slice?dataset=http%3A%2F%2Fopendatacommunities.org%2Fdata%2Fsocietal-wellbeing%2Fimd2019%2Findices</p>
 
-4: https://geoportal.statistics.gov.uk/datasets/ons::lower-layer-super-output-areas-december-2011-boundaries-ew-bfc-v3/about
+
+<p><a href="https://www.ons.gov.uk/economy/environmentalaccounts/datasets/accesstopublicgreenspaceingreatbritain">[3] </a>Access to public green space in Great Britain. Office for National Statistics. [Online]. 26 April 2021. [Accessed 25 July 2025] Available from: https://www.ons.gov.uk/economy/environmentalaccounts/datasets/accesstopublicgreenspaceingreatbritain</p>
+
+<p><a href="https://geoportal.statistics.gov.uk/datasets/ons::lower-layer-super-output-areas-december-2011-boundaries-ew-bfc-v3/about">[4] </a>Lower layer Super Output Areas (December 2011) Boundaries EW BFC (V3). Office for National Statistics Open Geography portal. [Online]. December 2011. [Accessed 27 July 2025] Available from: https://geoportal.statistics.gov.uk/datasets/ons::lower-layer-super-output-areas-december-2011-boundaries-ew-bfc-v3/about</p>
+
+<p><a href="https://github.com/FrancescaPontin/GEOG5990">[5]</a>GEOG5990M course materials</p>
