@@ -24,6 +24,7 @@ The notebook then undertakes Spearman’s Rank Correlation between the health de
 Finally, two visualisations are presented. The first is a regression plot of the most highly correlated (but not related) variables. This is the Average garden size for houses within rural and built-up area and the health deprivation score. 
 The second maps the two variables above to the Dudley LSOAs and presents them side by side, where LSOAs of low health score (as deciles) and low private garden space are highlighted. A third plot is provided to provide geographic context for the highlighted areas. 
 The plots use yellow to orange palettes and highlight the LSOAs of interest in a highly contrasting blue to ensure the plots are readable to people with various kinds of colour-blindness. 
+
 1: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/835115/IoD2019_Statistical_Release.pdf
 2: https://opendatacommunities.org/slice?dataset=http%3A%2F%2Fopendatacommunities.org%2Fdata%2Fsocietal-wellbeing%2Fimd2019%2Findices
 3: https://www.ons.gov.uk/economy/environmentalaccounts/datasets/accesstopublicgreenspaceingreatbritain
